@@ -4,4 +4,5 @@
 
 [Web Page](https://acs-curriculum.github.io/salsaComponentProjectV2/)
 
-Web Page **[EFF](https://eff.org)**.
+[Components Page](https://acs-curriculum.github.io/salsaComponentProjectV2/components/)
+
