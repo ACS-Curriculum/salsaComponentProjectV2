@@ -39,10 +39,11 @@ img {
   bottom: 0;
   font-family: var(--font-sans-Bebas);
   font-size: 48px;
-  top: 0;
-  padding-top: 3rem;
+  top: 5;
+  padding-top: 5rem;
   position: fixed;
   width: 16rem;
+  margin-right: 2px;
 }
 .wrapper {
   display: grid;
@@ -80,10 +81,10 @@ img {
   background: var(--black);
   color: var(--white);
   font-size: 1em;
-  margin-bottom: 0;
+  margin: 0;
   padding: 0.5rem;
   text-transform: uppercase;
-  top: 4.5rem;
+  top: 3.5rem;
 }
 .component__img:before {
   content: "IMG";
